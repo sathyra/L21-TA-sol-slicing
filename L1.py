@@ -34,5 +34,4 @@ Button(root, text="Slice Array", command=sl_ar).pack()
 #output is displayed using the label
 label = Label(root,bg='light blue', font = 50)
 label.pack()
-
 root.mainloop()
